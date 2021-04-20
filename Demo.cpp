@@ -10,8 +10,8 @@
 #include <sstream>
 #include <stdexcept>
 using namespace std;
-
 #include "NumberWithUnits.hpp"
+
 using namespace ariel;
 
 int main() {
